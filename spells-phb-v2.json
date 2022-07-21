@@ -1,7 +1,7 @@
 {
 	"spell": [
 		{
-			"name": "Bouffé d'acide",
+			"name": "Acid Splash",
 			"source": "PHB",
 			"page": 211,
 			"srd": true,
@@ -15593,7 +15593,7 @@
 			}
 		},
 		{
-			"name": "Fire Bolt",
+			"name": "Trait de feu",
 			"source": "PHB",
 			"page": 242,
 			"srd": true,
